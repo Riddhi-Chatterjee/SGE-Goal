@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "SGE-Goal"
+type: software
+license: Apache-2.0
+repository-code: "https://github.com/Riddhi-Chatterjee/SGE-Goal"
+authors:
+  - family-names: Chatterjee
+    given-names: Riddhi
+    affiliation: "International Institute of Information Technology Bangalore (IIIT-B)"
+  - family-names: Shrirao
+    given-names: Ritish
+    affiliation: "International Institute of Information Technology Bangalore (IIIT-B)"
+  - family-names: Mehrotra
+    given-names: Kushagra
+    affiliation: "International Institute of Information Technology Bangalore (IIIT-B)"
+  - family-names: Gopalakrishnan
+    given-names: Viswanath
+    affiliation: "International Institute of Information Technology Bangalore (IIIT-B)"
+preferred-citation:
+  type: article
+  title: "Goal Images Are Control Targets: Spatially-Grounded Goal-Image Synthesis for Robotic Manipulation"
+  authors:
+    - family-names: Chatterjee
+      given-names: Riddhi
+    - family-names: Shrirao
+      given-names: Ritish
+    - family-names: Mehrotra
+      given-names: Kushagra
+    - family-names: Gopalakrishnan
+      given-names: Viswanath
+  journal: "arXiv preprint arXiv:2610.24885"
+  year: 2026
+  doi: "10.48550/arXiv.2610.24885"
+  url: "https://arxiv.org/abs/2610.24885"
+  identifiers:
+    - type: other
+      value: "arXiv:2610.24885"
+      description: "arXiv identifier"
